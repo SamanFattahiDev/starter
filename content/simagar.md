@@ -1,3 +1,3 @@
-# Simagar page
+# test page
 
-![unnamed.png](/unnamed.png)
+![unnamed.png](/Random%20Symboles%208.png)
